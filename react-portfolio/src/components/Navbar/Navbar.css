@@ -1,0 +1,19 @@
+.nav {
+   background-color: black;
+}
+
+.navbar-toggler {
+    background-color: cornflowerblue;
+}
+
+.navbar-brand {
+    color: cornflowerblue;
+}
+
+.icon {
+    color: cornflowerblue;
+}
+
+.nav-link {
+    color: lightgreen;
+}
