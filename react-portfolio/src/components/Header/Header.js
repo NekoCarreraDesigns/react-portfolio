@@ -3,8 +3,10 @@ import "./Header.css";
 
 function Header(props) {
     return (
-        <h1 className="page-head">
-            Welcome to Neko Carrera Designs </h1>
+        <div className="col-12">
+            <h1 className="page-head">
+                Welcome to Neko Carrera Designs </h1>
+        </div>
     )
 }
 
