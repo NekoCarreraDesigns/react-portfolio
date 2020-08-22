@@ -1,3 +1,10 @@
-.sunset-surf {
-    background-size: cover;
+.intro {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: lightgreen;
+    
 }
+ .sea-and-sand {
+     background-color: black;
+ }

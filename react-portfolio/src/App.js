@@ -1,5 +1,5 @@
 import React from 'react';
-// import './App.css';
+import './App.css';
 import Body from "./components/Body/Body";
 import Card from "./components/Card/Card";
 import Header from "./components/Header/Header";
