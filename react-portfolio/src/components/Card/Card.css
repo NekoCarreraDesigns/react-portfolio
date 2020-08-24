@@ -6,6 +6,11 @@
  
 #signage {
     text-decoration-line: underline;
+    text-shadow:magenta 1px 1px;
+}
+
+#menu {
+    text-shadow: magenta 1px 1px;
 }
 
 .button {
@@ -14,6 +19,35 @@
 
  #weather-dash {
     height: 400px;
-    width: 400px;
+    width: 600px;
     
 }
+ #employee-pic {
+     padding-top: 10px;
+     height: 400px;
+     width: 600px;
+ }
+
+ #hockey-pic {
+     padding-top: 10px;
+     height: 400px;
+     width: 600px;
+ }
+
+ #team-pic {
+     padding-top: 10px;
+     height: 400px;
+     width: 600px;
+ }
+
+ #fitness-pic {
+     padding-top: 10px;
+     height: 400px;
+     width: 600px;
+ }
+
+ #note-pic {
+     padding-top: 10px;
+     height: 400px;
+     width: 600px;
+ }
