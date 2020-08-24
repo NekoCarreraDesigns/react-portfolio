@@ -18,15 +18,16 @@
 }
 
  #weather-dash {
+    padding-top: 10px; 
     height: 400px;
     width: 600px;
     
 }
- #employee-pic {
+ /* #employee-pic {
      padding-top: 10px;
      height: 400px;
      width: 600px;
- }
+ } */
 
  #hockey-pic {
      padding-top: 10px;
