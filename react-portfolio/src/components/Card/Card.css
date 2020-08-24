@@ -1,9 +1,19 @@
-.card-body {
+ .list-inline {
     background-color: black;
-    justify-content: center;
     color: cornflowerblue;
     font-size: 32px;
-    width: 400px;
+  }
+ 
+#signage {
+    text-decoration-line: underline;
+}
+
+.button {
+    color: lightgreen;
+}
+
+ #weather-dash {
     height: 400px;
-    position: relative;
+    width: 400px;
+    
 }
