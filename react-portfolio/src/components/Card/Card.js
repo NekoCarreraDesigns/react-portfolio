@@ -6,9 +6,9 @@ function Card() {
         <div>
             <ul className="list-inline">
                 <li>
+                    <h1 id="signage" className="mt-0 mb-1">Weather Dashboard</h1>
                     <img id="weather-dash" className="img-fluid" src="/WeatherDash.png" alt="palm-trees" />
                     <div className="media-body">
-                        <h3 id="signage" className="mt-0 mb-1">Weather Dashboard</h3>
                         <p id="menu"> Weather dashboard lets you view the weather for any city you want to search, want to know how the
                         weather is at moms house, or in your home town, maybe you plan on traveling and don't want to forget to pack
                         a jacket or forget your flip flops, the app uses the Open Weather API, and jQuery to function
@@ -18,9 +18,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
+                    <h1 id="signage" className="mt-0 mb-1">Employee Tracker</h1>
                     <img id="employee-pic" className="img-fluid" src="/EmployeeTracker.png" alt="employee-tracker" />
                     <div className="media-body">
-                        <h3 id="signage" className="mt-0 mb-1">Employee Tracker</h3>
                         <p id="menu"> Employee tracker uses the command line to view departments, add departments, view employees, add
                         employees, view employees by specific departments, view employees by their manager, change employee roles,
                         employees can also be removed if needed. The app uses SQL, Node.js, and Express.js
@@ -30,9 +30,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
+                    <h1 id="signage">Hockey Quiz</h1>
                     <img id="hockey-pic" className="img-fluid" src="/hockey quiz pic.png" alt="hockey" />
-                    <div className="media-body">
-                        <h3 id="signage">Hockey Quiz</h3>
+                    <div className="media">
                         <p id="menu">Do you have what it takes to win the Stanley Cup, Neko Carrera a die hard Red Wings fan since getting
                         introduced to hockey by his uncles challenges you! In this fun quiz featuring two of the greatest hockey
                           players to play the game</p>
@@ -41,9 +41,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
+                    <h1 id="signage" className="mt-0 mb-1">Team Generator</h1>
                     <img id="team-pic" className="img-fluid" src="/TeamGen.png" alt="team-generator" />
                     <div className="media-body">
-                        <h3 id="signage" className="mt-0 mb-1">Team Generator</h3>
                         <p id="menu">The team generator app lets you put together a team for your project, featuring Node.js command
                         line
                         prompts to generate the profile cards, with role specific questions and icons for each team member, with data
@@ -55,9 +55,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
+                    <h1 id="signage" className="mt-0 mb-1">Fitness Tracker</h1>
                     <img id="fitness-pic" className="img-fluid" src="/FitnessTracker.png" alt="team-generator" />
                     <div className="media-body">
-                        <h3 id="signage" className="mt-0 mb-1">Fitness Tracker</h3>
                         <p id="menu">Fitness Tracker app allows you to track your workouts, with a MongoDB database, express backend, using
                         Semantic UI for the front end, the app also uses Mongoose ORM, I love being fit, and working out this one was fun to make.
                         If I'm not in the gym training Muay Thai, you can find me out in the surf catching some waves
@@ -67,9 +67,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
+                    <h1 id="signage" className="mt-0 mb-1">Note Taker</h1>
                     <img id="note-pic" className="img-fluid" src="/NoteTaker.png" alt="note-taker" />
                     <div className="media-body">
-                        <h3 id="signage" className="mt-0 mb-1">Note Taker</h3>
                         <p id="menu">Note taker app, are you like me? super forgetful? like so forgetful you would lose your own head if
                         it wasn't attached. Well the note taker is here to save the day, have something important you need to remember
                         write it down, the note taker saves it for you.
