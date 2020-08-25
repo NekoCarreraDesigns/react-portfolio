@@ -7,4 +7,10 @@
 .holla-at-me {
     font-size: 32px;
     text-shadow: magenta 1px 1px;
+    letter-spacing: 2px;
+}
+
+.button2 {
+    color: cornflowerblue;
+    font-size: 24px;
 }
