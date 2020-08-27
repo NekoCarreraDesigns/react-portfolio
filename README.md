@@ -26,7 +26,7 @@
 
   ## Future Developments
 
-  undefined
+  convert from bootstrap to reactstrap
 
   ## Credits
 
