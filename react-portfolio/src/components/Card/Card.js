@@ -30,9 +30,9 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
-                    <h1 id="signage">Hockey Quiz</h1>
+                    <h1 id="signage" className="mt-0 mb-1">Hockey Quiz</h1>
                     <img id="hockey-pic" className="img-fluid" src="/hockey quiz pic.png" alt="hockey" />
-                    <div className="media">
+                    <div className="media-body">
                         <p id="menu">Do you have what it takes to win the Stanley Cup, Neko Carrera a die hard Red Wings fan since getting
                         introduced to hockey by his uncles challenges you! In this fun quiz featuring two of the greatest hockey
                           players to play the game</p>

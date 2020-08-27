@@ -5,17 +5,22 @@ import Contact from "./components/Contact/Contact";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      <Header />
-      <Body />
-      <Card />
-      <Contact />
-      <Footer />
-    </div>
+    <Router>
+      <div>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={Header}></Route>
+          <Route exact path="/about" component={Body}></Route>
+          <Route exact path="/portfolio" component={Card}></Route>
+          <Route exact path="/contact" component={Contact}></Route>
+        </Switch>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
