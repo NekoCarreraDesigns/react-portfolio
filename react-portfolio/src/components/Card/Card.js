@@ -7,7 +7,7 @@ function Card() {
             <ul className="list-inline">
                 <li>
                     <h1 id="signage" className="mt-0 mb-1">Weather Dashboard</h1>
-                    <img id="weather-dash" className="img-fluid" src="/WeatherDash.png" alt="palm-trees" />
+                    <img id="weather-dash" className="img-fluid" src="./assets/WeatherDash.png" alt="palm-trees" />
                     <div className="media-body">
                         <p id="menu"> Weather dashboard lets you view the weather for any city you want to search, want to know how the
                         weather is at moms house, or in your home town, maybe you plan on traveling and don't want to forget to pack
