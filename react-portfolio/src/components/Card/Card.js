@@ -19,7 +19,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Employee Tracker</h1>
-                    <img id="employee-pic" className="img-fluid" src="/EmployeeTracker.png" alt="employee-tracker" />
+                    <img id="employee-pic" className="img-fluid" src="./assets/EmployeeTracker.png" alt="employee-tracker" />
                     <div className="media-body">
                         <p id="menu"> Employee tracker uses the command line to view departments, add departments, view employees, add
                         employees, view employees by specific departments, view employees by their manager, change employee roles,
@@ -31,7 +31,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Hockey Quiz</h1>
-                    <img id="hockey-pic" className="img-fluid" src="/hockey quiz pic.png" alt="hockey" />
+                    <img id="hockey-pic" className="img-fluid" src="./assets/hockey quiz pic.png" alt="hockey" />
                     <div className="media-body">
                         <p id="menu">Do you have what it takes to win the Stanley Cup, Neko Carrera a die hard Red Wings fan since getting
                         introduced to hockey by his uncles challenges you! In this fun quiz featuring two of the greatest hockey
@@ -42,7 +42,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Team Generator</h1>
-                    <img id="team-pic" className="img-fluid" src="/TeamGen.png" alt="team-generator" />
+                    <img id="team-pic" className="img-fluid" src="./assets/TeamGen.png" alt="team-generator" />
                     <div className="media-body">
                         <p id="menu">The team generator app lets you put together a team for your project, featuring Node.js command
                         line
@@ -56,7 +56,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Fitness Tracker</h1>
-                    <img id="fitness-pic" className="img-fluid" src="/FitnessTracker.png" alt="team-generator" />
+                    <img id="fitness-pic" className="img-fluid" src="./assets/FitnessTracker.png" alt="team-generator" />
                     <div className="media-body">
                         <p id="menu">Fitness Tracker app allows you to track your workouts, with a MongoDB database, express backend, using
                         Semantic UI for the front end, the app also uses Mongoose ORM, I love being fit, and working out this one was fun to make.
@@ -68,7 +68,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Note Taker</h1>
-                    <img id="note-pic" className="img-fluid" src="/NoteTaker.png" alt="note-taker" />
+                    <img id="note-pic" className="img-fluid" src="./assets/NoteTaker.png" alt="note-taker" />
                     <div className="media-body">
                         <p id="menu">Note taker app, are you like me? super forgetful? like so forgetful you would lose your own head if
                         it wasn't attached. Well the note taker is here to save the day, have something important you need to remember
